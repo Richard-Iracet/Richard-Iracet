@@ -29,6 +29,12 @@
 - 🔹 [Gerenciador de Tarefas](https://github.com/Richard-Iracet/Gerenciador-de-Tarefas)  
   App React com persistência em `localStorage`, consumo de API externa e estilização com Tailwind CSS.
 
+- 🔹 [Sistema de Cadastro de Contatos](https://github.com/Richard-Iracet/Crud-Contatos)  
+  App C#.NET integrado ao SQL Server, com CRUD completo e interface em Bootstrap.
+
+- 🔹 [Formulário Responsivo](https://github.com/Richard-Iracet/Formulario)  
+  Formulário HTML/CSS/JS com validação de campos, cálculo de idade e integração com API de CEP.
+
 _(Em breve mais projetos por aqui!)_
 
 ---
