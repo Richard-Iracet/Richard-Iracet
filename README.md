@@ -3,7 +3,7 @@
 🎯 **Desenvolvedor Full Stack**  
 📍 Natural do **Rio Grande do Sul**  
 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **UNINTER**  
-💼 Experiência como **Desenvolvedor Júnior com C#.NET**  
+💼 Experiência como **Desenvolvedor Júnior**  
 💻 Apaixonado por tecnologia e criação de soluções web
 
 ---
